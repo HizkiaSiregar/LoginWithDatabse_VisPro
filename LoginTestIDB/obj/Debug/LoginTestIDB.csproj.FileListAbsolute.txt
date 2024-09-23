@@ -24,4 +24,5 @@ C:\Users\Y O G A\source\repos\LoginTestIDB\LoginTestIDB\obj\Debug\LoginTestIDB.c
 C:\Users\Y O G A\source\repos\LoginTestIDB\LoginTestIDB\obj\Debug\LoginTes.68700345.Up2Date
 C:\Users\Y O G A\source\repos\LoginTestIDB\LoginTestIDB\obj\Debug\LoginTestIDB.exe
 C:\Users\Y O G A\source\repos\LoginTestIDB\LoginTestIDB\obj\Debug\LoginTestIDB.pdb
-C:\Users\Y O G A\source\repos\LoginTestIDB\LoginTestIDB\obj\Debug\LoginTestIDB.form1.resources
+C:\Users\Y O G A\source\repos\LoginTestIDB\LoginTestIDB\obj\Debug\LoginTestIDB.Login.resources
+C:\Users\Y O G A\source\repos\LoginTestIDB\LoginTestIDB\obj\Debug\LoginTestIDB.FrmMain.resources

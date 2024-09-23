@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Y O G A\\source\\repos\\LoginTestIDB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A0A8C61A-761B-4009-9230-E9F36D6B4EB4}|LoginTestIDB\\LoginTestIDB.csproj|c:\\users\\y o g a\\source\\repos\\logintestidb\\logintestidb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A0A8C61A-761B-4009-9230-E9F36D6B4EB4}|LoginTestIDB\\LoginTestIDB.csproj|solutionrelative:logintestidb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A0A8C61A-761B-4009-9230-E9F36D6B4EB4}|LoginTestIDB\\LoginTestIDB.csproj|c:\\users\\y o g a\\source\\repos\\logintestidb\\logintestidb\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0A8C61A-761B-4009-9230-E9F36D6B4EB4}|LoginTestIDB\\LoginTestIDB.csproj|solutionrelative:logintestidb\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0A8C61A-761B-4009-9230-E9F36D6B4EB4}|LoginTestIDB\\LoginTestIDB.csproj|C:\\Users\\Y O G A\\source\\repos\\LoginTestIDB\\logintestidb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0A8C61A-761B-4009-9230-E9F36D6B4EB4}|LoginTestIDB\\LoginTestIDB.csproj|solutionrelative:logintestidb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A0A8C61A-761B-4009-9230-E9F36D6B4EB4}|LoginTestIDB\\LoginTestIDB.csproj|c:\\users\\y o g a\\source\\repos\\logintestidb\\logintestidb\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A8C61A-761B-4009-9230-E9F36D6B4EB4}|LoginTestIDB\\LoginTestIDB.csproj|solutionrelative:logintestidb\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0A8C61A-761B-4009-9230-E9F36D6B4EB4}|LoginTestIDB\\LoginTestIDB.csproj|C:\\Users\\Y O G A\\source\\repos\\LoginTestIDB\\logintestidb\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0A8C61A-761B-4009-9230-E9F36D6B4EB4}|LoginTestIDB\\LoginTestIDB.csproj|solutionrelative:logintestidb\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A0A8C61A-761B-4009-9230-E9F36D6B4EB4}|LoginTestIDB\\LoginTestIDB.csproj|c:\\users\\y o g a\\source\\repos\\logintestidb\\logintestidb\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0A8C61A-761B-4009-9230-E9F36D6B4EB4}|LoginTestIDB\\LoginTestIDB.csproj|solutionrelative:logintestidb\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A8C61A-761B-4009-9230-E9F36D6B4EB4}|LoginTestIDB\\LoginTestIDB.csproj|c:\\users\\y o g a\\source\\repos\\logintestidb\\logintestidb\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A8C61A-761B-4009-9230-E9F36D6B4EB4}|LoginTestIDB\\LoginTestIDB.csproj|solutionrelative:logintestidb\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A8C61A-761B-4009-9230-E9F36D6B4EB4}|LoginTestIDB\\LoginTestIDB.csproj|c:\\users\\y o g a\\source\\repos\\logintestidb\\logintestidb\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A8C61A-761B-4009-9230-E9F36D6B4EB4}|LoginTestIDB\\LoginTestIDB.csproj|solutionrelative:logintestidb\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A8C61A-761B-4009-9230-E9F36D6B4EB4}|LoginTestIDB\\LoginTestIDB.csproj|c:\\users\\y o g a\\source\\repos\\logintestidb\\logintestidb\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A8C61A-761B-4009-9230-E9F36D6B4EB4}|LoginTestIDB\\LoginTestIDB.csproj|solutionrelative:logintestidb\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,21 +34,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Y O G A\\source\\repos\\LoginTestIDB\\LoginTestIDB\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "LoginTestIDB\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\Y O G A\\source\\repos\\LoginTestIDB\\LoginTestIDB\\Form1.Designer.cs",
-              "RelativeToolTip": "LoginTestIDB\\Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Y O G A\\source\\repos\\LoginTestIDB\\LoginTestIDB\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "LoginTestIDB\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\Y O G A\\source\\repos\\LoginTestIDB\\LoginTestIDB\\Login.Designer.cs",
+              "RelativeToolTip": "LoginTestIDB\\Login.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-18T11:52:43.772Z",
               "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Y O G A\\source\\repos\\LoginTestIDB\\LoginTestIDB\\FrmMain.cs",
+              "RelativeDocumentMoniker": "LoginTestIDB\\FrmMain.cs",
+              "ToolTip": "C:\\Users\\Y O G A\\source\\repos\\LoginTestIDB\\LoginTestIDB\\FrmMain.cs [Design]",
+              "RelativeToolTip": "LoginTestIDB\\FrmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T12:34:47.362Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Bookmark",
@@ -44,27 +68,53 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Y O G A\\source\\repos\\LoginTestIDB\\LoginTestIDB\\Form1.cs",
-              "RelativeDocumentMoniker": "LoginTestIDB\\Form1.cs",
-              "ToolTip": "C:\\Users\\Y O G A\\source\\repos\\LoginTestIDB\\LoginTestIDB\\Form1.cs [Design]",
-              "RelativeToolTip": "LoginTestIDB\\Form1.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "C:\\Users\\Y O G A\\source\\repos\\LoginTestIDB\\LoginTestIDB\\FrmMain.cs",
+              "RelativeDocumentMoniker": "LoginTestIDB\\FrmMain.cs",
+              "ToolTip": "C:\\Users\\Y O G A\\source\\repos\\LoginTestIDB\\LoginTestIDB\\FrmMain.cs",
+              "RelativeToolTip": "LoginTestIDB\\FrmMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T12:35:15.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Y O G A\\source\\repos\\LoginTestIDB\\LoginTestIDB\\Login.cs",
+              "RelativeDocumentMoniker": "LoginTestIDB\\Login.cs",
+              "ToolTip": "C:\\Users\\Y O G A\\source\\repos\\LoginTestIDB\\LoginTestIDB\\Login.cs [Design]",
+              "RelativeToolTip": "LoginTestIDB\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-18T05:47:15.066Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Y O G A\\source\\repos\\LoginTestIDB\\LoginTestIDB\\Form1.cs",
-              "RelativeDocumentMoniker": "LoginTestIDB\\Form1.cs",
-              "ToolTip": "C:\\Users\\Y O G A\\source\\repos\\LoginTestIDB\\LoginTestIDB\\Form1.cs",
-              "RelativeToolTip": "LoginTestIDB\\Form1.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAIAwwGIAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Y O G A\\source\\repos\\LoginTestIDB\\LoginTestIDB\\Login.cs",
+              "RelativeDocumentMoniker": "LoginTestIDB\\Login.cs",
+              "ToolTip": "C:\\Users\\Y O G A\\source\\repos\\LoginTestIDB\\LoginTestIDB\\Login.cs",
+              "RelativeToolTip": "LoginTestIDB\\Login.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwDAAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-18T06:11:28.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Y O G A\\source\\repos\\LoginTestIDB\\LoginTestIDB\\FrmMain.Designer.cs",
+              "RelativeDocumentMoniker": "LoginTestIDB\\FrmMain.Designer.cs",
+              "ToolTip": "C:\\Users\\Y O G A\\source\\repos\\LoginTestIDB\\LoginTestIDB\\FrmMain.Designer.cs",
+              "RelativeToolTip": "LoginTestIDB\\FrmMain.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T12:34:51.916Z",
               "EditorCaption": ""
             }
           ]
