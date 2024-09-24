@@ -47,8 +47,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAMIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-18T11:52:43.772Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "LoginTestIDB\\FrmMain.cs",
               "ViewState": "AgIAAK0AAAAAAAAAAAAiwL0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T12:35:15.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T12:35:15.532Z"
             },
             {
               "$type": "Document",
@@ -88,8 +86,7 @@
               "ToolTip": "C:\\Users\\Y O G A\\source\\repos\\LoginTestIDB\\LoginTestIDB\\Login.cs [Design]",
               "RelativeToolTip": "LoginTestIDB\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T05:47:15.066Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-09-18T05:47:15.066Z"
             },
             {
               "$type": "Document",
@@ -101,8 +98,7 @@
               "RelativeToolTip": "LoginTestIDB\\Login.cs",
               "ViewState": "AgIAADoAAAAAAAAAAAAkwFMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T06:11:28.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T06:11:28.543Z"
             },
             {
               "$type": "Document",
@@ -114,8 +110,7 @@
               "RelativeToolTip": "LoginTestIDB\\FrmMain.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAMAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T12:34:51.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T12:34:51.916Z"
             }
           ]
         }
