@@ -168,6 +168,28 @@ namespace LoginTestIDB
             CBLevel.SelectedIndex = -1;
         }
 
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Login login = new Login();
+            login.Show();
+            this.Hide();
+        }
+
+        private void txtNama_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
         private void btnLogout_Click(object sender, EventArgs e)
         {
             this.Hide();
