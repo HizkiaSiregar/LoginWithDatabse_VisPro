@@ -190,6 +190,17 @@ namespace LoginTestIDB
 
         }
 
+        private void label7_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void printBtn_Click(object sender, EventArgs e)
+        {
+            adminForm aform = new adminForm();
+            aform.Show();
+        }
+
         private void btnLogout_Click(object sender, EventArgs e)
         {
             this.Hide();
