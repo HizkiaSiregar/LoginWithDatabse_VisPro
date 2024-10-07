@@ -44,3 +44,4 @@ C:\Users\Y O G A\source\repos\LoginTestIDB\LoginTestIDB\bin\Debug\CrystalDecisio
 C:\Users\Y O G A\source\repos\LoginTestIDB\LoginTestIDB\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
 C:\Users\Y O G A\source\repos\LoginTestIDB\LoginTestIDB\bin\Debug\stdole.dll
 C:\Users\Y O G A\source\repos\LoginTestIDB\LoginTestIDB\obj\Debug\LoginTestIDB.adminForm.resources
+C:\Users\Y O G A\source\repos\LoginTestIDB\LoginTestIDB\obj\Debug\LoginTestIDB.Akun.resources

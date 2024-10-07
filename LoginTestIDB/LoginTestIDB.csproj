@@ -61,10 +61,22 @@
     <Compile Include="adminForm.Designer.cs">
       <DependentUpon>adminForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Akun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Akun.Designer.cs">
+      <DependentUpon>Akun.cs</DependentUpon>
+    </Compile>
     <Compile Include="CrystalReport1.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>CrystalReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CR_AkunAdmin.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CR_AkunAdmin.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="Login.cs">
@@ -84,9 +96,16 @@
     <EmbeddedResource Include="adminForm.resx">
       <DependentUpon>adminForm.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Akun.resx">
+      <DependentUpon>Akun.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="CrystalReport1.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>CrystalReport1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CR_AkunAdmin.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CR_AkunAdmin.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmMain.resx">
       <DependentUpon>FrmMain.cs</DependentUpon>
